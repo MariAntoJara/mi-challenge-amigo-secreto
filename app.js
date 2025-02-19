@@ -49,5 +49,5 @@ function sortearAmigo() {
     let [amigo1, amigo2] = shuffled;
 
     // Mostrar los nombres sorteados
-    resultado.innerHTML = `<li>${amigo1} 🎁 ${amigo2}</li>`;
+    resultado.innerHTML = `<li>${amigo1} ${amigo2}</li>`;
 }
