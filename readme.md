@@ -37,7 +37,7 @@ Abre el archivo index.html en tu navegador.
 └── 📂 assets/          # Carpeta con imágenes y recursos
 
 
-<table> <tr> <td align="center"> <img src="assets/captura1.png" alt="Interfaz principal" width="300"> <br>📌 Interfaz principal </td> </tr> </table>
+<table> <tr> <td align="center"> <img src="assets/Captura1.png" alt="Interfaz principal" width="300"> <br>📌 Interfaz principal </td> </tr> </table>
 
 🔧 Posibles Problemas y Soluciones
 <table> <tr> <th>Problema</th> <th>Solución</th> </tr> <tr> <td>No se pueden ingresar números</td> <td>Solo se permiten letras, revisa tu entrada.</td> </tr> <tr> <td>El botón de sorteo no funciona</td> <td>Asegúrate de tener al menos dos nombres en la lista.</td> </tr> <tr> <td>Los nombres se repiten</td> <td>El sistema evita duplicados, revisa antes de ingresar.</td> </tr> </table>
