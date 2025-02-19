@@ -21,15 +21,19 @@ Permite agregar participantes y realizar un sorteo aleatorio de dos nombres.
 
 ---
 ## 📂 Abrir el proyecto
-Abre el archivo index.html en tu navegador o usa Live Server en VS Code.
+Abre el archivo index.html en tu navegador.
 
 📂 Estructura del Proyecto
 
 📁 amigo-secreto/
-│── 📄 index.html       # Estructura de la página
+│── 📄 index.html       # Estructura de la página 
+
 │── 🎨 style.css        # Estilos visuales
+
 │── 🖥️ app.js           # Lógica del sorteo en JavaScript
+
 │── 📄 README.md        # Documentación del proyecto
+
 └── 📂 assets/          # Carpeta con imágenes y recursos
 
 
@@ -39,6 +43,5 @@ Abre el archivo index.html en tu navegador o usa Live Server en VS Code.
 <table> <tr> <th>Problema</th> <th>Solución</th> </tr> <tr> <td>No se pueden ingresar números</td> <td>Solo se permiten letras, revisa tu entrada.</td> </tr> <tr> <td>El botón de sorteo no funciona</td> <td>Asegúrate de tener al menos dos nombres en la lista.</td> </tr> <tr> <td>Los nombres se repiten</td> <td>El sistema evita duplicados, revisa antes de ingresar.</td> </tr> </table>
 📜 Licencia
 <p>Este proyecto es de código abierto y puedes usarlo o mejorarlo libremente. 📖✨</p>
-🙌 Contribuciones
-<details> <summary>💡 ¿Cómo contribuir?</summary> <ol> <li>Haz un fork del repositorio.</li> <li>Crea una nueva branch: <code>git checkout -b nueva-feature</code></li> <li>Haz tus cambios y realiza un commit: <code>git commit -m "Descripción del cambio"</code></li> <li>Envía un pull request.</li> </ol> </details>
+
 <p align="center">🎉 ¡Diviértete sorteando tu Amigo Secreto! 🎁</p> ```
