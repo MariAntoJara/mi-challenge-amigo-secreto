@@ -4,10 +4,6 @@
   <img src="assets/amigo-secreto.png" alt="Logo Amigo Secreto" width="200">
 </p>
 
-<p align="center">
-  <b>Un divertido sorteo interactivo de "Amigo Secreto" desarrollado con JavaScript, HTML y CSS.</b>
-</p>
-
 Este proyecto es un **sorteo interactivo de "Amigo Secreto"** desarrollado con **JavaScript, HTML y CSS**.  
 Permite agregar participantes y realizar un sorteo aleatorio de dos nombres.  
 
