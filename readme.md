@@ -22,6 +22,7 @@ Permite agregar participantes y realizar un sorteo aleatorio de dos nombres.
 ---
 ## 📂 Abrir el proyecto
 Abre el archivo index.html en tu navegador.
+---
 
 📂 Estructura del Proyecto
 
@@ -36,8 +37,24 @@ Abre el archivo index.html en tu navegador.
 
 └── 📂 assets/          # Carpeta con imágenes y recursos
 
+---
 
-<table> <tr> <td align="center"> <img src="assets/captura1.png" alt="Interfaz principal" width="300"> <br>📌 Interfaz principal </td> </tr> </table>
+<h2>💡 Explicación del código</h2>
+
+<h3>🔹 agregarAmigo()</h3>
+<ul>
+  <li>Obtiene el nombre ingresado y lo valida (solo letras y sin duplicados).</li>
+  <li>Agrega el nombre a la lista de amigos en pantalla.</li>
+</ul>
+
+<h3>🔹 sortearAmigo()</h3>
+<ul>
+  <li>Verifica que haya mínimo dos nombres.</li>
+  <li>Mezcla la lista y selecciona dos nombres al azar.</li>
+  <li>Muestra el resultado en pantalla.</li>
+</ul>
+
+---
 
 🔧 Posibles Problemas y Soluciones
 <table> <tr> <th>Problema</th> <th>Solución</th> </tr> <tr> <td>No se pueden ingresar números</td> <td>Solo se permiten letras, revisa tu entrada.</td> </tr> <tr> <td>El botón de sorteo no funciona</td> <td>Asegúrate de tener al menos dos nombres en la lista.</td> </tr> <tr> <td>Los nombres se repiten</td> <td>El sistema evita duplicados, revisa antes de ingresar.</td> </tr> </table>
